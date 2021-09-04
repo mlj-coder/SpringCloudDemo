@@ -1,0 +1,6 @@
+com\mlj\product\dao\ProductDao.class
+com\mlj\product\ProductApplication.class
+com\mlj\product\entity\Product.class
+com\mlj\product\service\impl\ProductServiceImpl.class
+com\mlj\product\controller\ProductController.class
+com\mlj\product\service\ProductService.class
