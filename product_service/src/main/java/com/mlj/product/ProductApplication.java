@@ -6,6 +6,9 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @SpringBootApplication
 @EntityScan("com.mlj.product.entity")
+//激活eurekaClient
+//@EnableDiscoveryClient
+//@EnableEurekaClient
 public class ProductApplication {
     public static void main(String[] args) {
         SpringApplication.run(ProductApplication.class,args);
